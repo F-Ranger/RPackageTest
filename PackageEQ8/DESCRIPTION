@@ -1,0 +1,13 @@
+Package: PackageEQ8
+Type: Package
+Title: PackageEQ8
+Version: 0.0.2
+Author: Raven Ieng
+Maintainer: The package maintainer <raveniengken@hotmail.com>
+Description: Extraire des données boursières et créer une fonction feature engin qui retourne des nouvelles variables
+License: What license is it under?
+Encoding: UTF-8
+Imports: pdfetch,quantmod
+RoxygenNote: 7.2.3
+NeedsCompilation: no
+Packaged: 2023-01-05 02:17:08 UTC; Raven
